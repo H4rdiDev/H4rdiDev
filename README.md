@@ -1,4 +1,4 @@
-# Hi there, I'm H4rd1Dev! 👋
+# Hi there, I'm H4rdiDev! 👋
 
 ## About Me
 I am a passionate developer with a love for creating innovative solutions and learning new technologies. I have experience in various programming languages and frameworks, and I enjoy contributing to open source projects.
@@ -20,16 +20,16 @@ I am a passionate developer with a love for creating innovative solutions and le
 ## Projects
 Here are some of the projects I have worked on:
 
-### [Project Name](https://github.com/H4rd1Dev/project-name)
+### [Project Name](https://github.com/H4rdiDev/project-name)
 A brief description of what the project is about, the technologies used, and the purpose of the project.
 
-### [Another Project](https://github.com/H4rd1Dev/another-project)
+### [Another Project](https://github.com/H4rdiDev/another-project)
 A brief description of what the project is about, the technologies used, and the purpose of the project.
 
 ## GitHub Stats
-![H4rd1Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4rd1Dev&show_icons=true&theme=radical)
+![H4rdiDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4rdiDev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rd1Dev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdiDev&layout=compact&theme=radical)
 
 ## Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
