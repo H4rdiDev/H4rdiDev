@@ -22,6 +22,6 @@ Passionate developer with a love for creating innovative solutions and learning 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdiDev&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Get In Touch
-[![YouTube](https://img.shields.io/badge/YouTube-Hardi.Lah-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@hardi.lah.](https://youtube.com/@hardi.lah.)
+[![YouTube](https://img.shields.io/badge/YouTube-Hardi.Lah-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hardi.lah?si=6C9-1NjGgPVPsG2O)
 [![Instagram](https://img.shields.io/badge/Instagram-Hardi.Lah-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Hardi.Lah)
 [![Email](https://img.shields.io/badge/Email-hardiyans.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardiyans.dev@gmail.com)
