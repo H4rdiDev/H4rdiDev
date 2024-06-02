@@ -1,49 +1,39 @@
-<h2 align="left">Hi 👋! My name is Hardi and I'm a Develop, from Indonesian</h2>
+# Hi there, I'm H4rd1Dev! 👋
 
-###
+## About Me
+I am a passionate developer with a love for creating innovative solutions and learning new technologies. I have experience in various programming languages and frameworks, and I enjoy contributing to open source projects.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4rd1dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h4rd1dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🌱 I’m currently learning advanced web development and cloud computing.
+- 👯 I’m looking to collaborate on exciting open source projects.
+- 🤔 I’m looking for help with mastering machine learning and AI.
+- 💬 Ask me about web development, JavaScript, or anything tech-related.
+- 📫 How to reach me: [Email Me](mailto:your-email@example.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
-###
+## Skills
+- **Languages:** JavaScript, Python, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js, Express
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, Docker, Kubernetes
+- **Other Interests:** Machine Learning, Artificial Intelligence
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Projects
+Here are some of the projects I have worked on:
 
-###
+### [Project Name](https://github.com/H4rd1Dev/project-name)
+A brief description of what the project is about, the technologies used, and the purpose of the project.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### [Another Project](https://github.com/H4rd1Dev/another-project)
+A brief description of what the project is about, the technologies used, and the purpose of the project.
 
-###
+## GitHub Stats
+![H4rd1Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4rd1Dev&show_icons=true&theme=radical)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rd1Dev&layout=compact&theme=radical)
 
-###
+## Get In Touch
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Personal Website/Blog](https://your-website.com)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+Thanks for visiting my profile!
