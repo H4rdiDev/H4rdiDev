@@ -1,13 +1,12 @@
 # Hi there, I'm H4rdiDev! 👋
-
+<img src="https://telegra.ph/file/d2c5e9008cb74ab1ef0ae.jpg" alt="Profile Picture" width="150">
 ## About Me
-I am a passionate developer with a love for creating innovative solutions and learning new technologies. I have experience in various programming languages and frameworks, and I enjoy contributing to open source projects.
+Passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy contributing to open source projects and constantly improving my skills.
 
-- 🌱 I’m currently learning advanced web development and cloud computing.
-- 👯 I’m looking to collaborate on exciting open source projects.
-- 🤔 I’m looking for help with mastering machine learning and AI.
+- 🌱 Currently learning advanced web development and cloud computing.
+- 👯 Looking to collaborate on exciting open source projects.
 - 💬 Ask me about web development, JavaScript, or anything tech-related.
-- 📫 How to reach me: [Email Me](mailto:your-email@example.com)
+- 📫 Reach me at: [hardiyans.dev@gmail.com](mailto:hardiyans.dev@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
@@ -17,23 +16,12 @@ I am a passionate developer with a love for creating innovative solutions and le
 - **Tools:** Git, Docker, Kubernetes
 - **Other Interests:** Machine Learning, Artificial Intelligence
 
-## Projects
-Here are some of the projects I have worked on:
-
-### [Project Name](https://github.com/H4rdiDev/project-name)
-A brief description of what the project is about, the technologies used, and the purpose of the project.
-
-### [Another Project](https://github.com/H4rdiDev/another-project)
-A brief description of what the project is about, the technologies used, and the purpose of the project.
-
 ## GitHub Stats
-![H4rdiDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4rdiDev&show_icons=true&theme=radical)
+![H4rdiDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4rdiDev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdiDev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdiDev&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website/Blog](https://your-website.com)
-
-Thanks for visiting my profile!
+[![YouTube](https://img.shields.io/badge/YouTube-Hardi.Lah-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Hardi.Lah)
+[![Instagram](https://img.shields.io/badge/Instagram-Hardi.Lah-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Hardi.Lah)
+[![Email](https://img.shields.io/badge/Email-hardiyans.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardiyans.dev@gmail.com)
