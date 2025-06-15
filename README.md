@@ -1,26 +1,41 @@
-# Hi there, I'm H4rdiDev! 👋
-<img src="https://telegra.ph/file/d2c5e9008cb74ab1ef0ae.jpg" alt="Profile Picture" width="150">
-## About Me
-Passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy contributing to open source projects and constantly improving my skills.
+<h1 align="center">Hey 👋What's Up?</h1>
 
-- 🌱 Currently learning advanced web development and cloud computing.
-- 👯 Looking to collaborate on exciting open source projects.
-- 💬 Ask me about web development, JavaScript, or anything tech-related.
-- 📫 Reach me at: [h4rdi.dev@gmail.com](mailto:h4rdi.dev@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+###
 
-## Skills
-- **Languages:** JavaScript, Python, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Express
-- **Database:** MySQL
-- **Tools:** Git, Docker
-- **Other Interests:** Machine Learning, Artificial Intelligence
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
-## GitHub Stats
-![H4rdiDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4rdiDev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rdiDev&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## Get In Touch
-[![Instagram](https://img.shields.io/badge/Instagram-Hardi.Lah-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Hardi.Lah)
-[![Email](https://img.shields.io/badge/Email-h4rdi.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h4rdi.dev@gmail.com)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
