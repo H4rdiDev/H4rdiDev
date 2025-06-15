@@ -6,14 +6,14 @@ Passionate developer with a love for creating innovative solutions and learning 
 - 🌱 Currently learning advanced web development and cloud computing.
 - 👯 Looking to collaborate on exciting open source projects.
 - 💬 Ask me about web development, JavaScript, or anything tech-related.
-- 📫 Reach me at: [hardiyans.dev@gmail.com](mailto:hardiyans.dev@gmail.com)
+- 📫 Reach me at: [hardiyans.dev@gmail.com](mailto:h4rdi.dev@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
 - **Languages:** JavaScript, Python, Java, C++
 - **Web Development:** HTML, CSS, React, Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, Docker, Kubernetes
+- **Database:** MySQL
+- **Tools:** Git, Docker
 - **Other Interests:** Machine Learning, Artificial Intelligence
 
 ## GitHub Stats
@@ -24,4 +24,4 @@ Passionate developer with a love for creating innovative solutions and learning 
 ## Get In Touch
 [![YouTube](https://img.shields.io/badge/YouTube-Hardi.Lah-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hardi.lah.)
 [![Instagram](https://img.shields.io/badge/Instagram-Hardi.Lah-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Hardi.Lah)
-[![Email](https://img.shields.io/badge/Email-hardiyans.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardiyans.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-h4rdi.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h4rdi.dev@gmail.com)
